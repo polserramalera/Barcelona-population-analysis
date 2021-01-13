@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# AC/BC (After Colau/Before Colau)
+# Barcelona population analysis (before and after city council change)
 Raul Castrillo & Pol Serramalera
 
 Data Analytics full time 30/oct/2020
@@ -43,7 +43,7 @@ From the bcn.cat
 
 
 ## Database
-We created new tables from the gathered datasets to calculate rates for each district for each year and then we created a final table with 10 rows ( 1 for each district) with all the gathered rates Before Colau and After Colau
+We created new tables from the gathered datasets to calculate rates for each district for each year and then we created a final table with 10 rows ( 1 for each district) with all the gathered rates Before 2015 and after 2015 when the city council changed
 
 #Include a drawing or computer-generated image of the ERD (Entity Relationship Diagram) of your database.
 
